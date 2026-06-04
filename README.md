@@ -9,6 +9,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E6DA4&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Developer;TypeScript+%7C+Tailwind+CSS;Shopify+%7C+SEO+%7C+Zoho+Automation;Open+to+Remote+Opportunities)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/arslanhaakim)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arslanhaakim@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1A3C5E?style=flat-square&logo=vercel&logoColor=white)](https://arslanhakim.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=arslanhakim&style=flat-square&color=2E6DA4&label=Profile+Views)
+
 </div>
 
 ---
