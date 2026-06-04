@@ -1,19 +1,19 @@
 <!-- Header -->
 <div align="center">
 
-<h1>Hey, I'm Arslan 👋</h1>
+<h1>Arslan Dogar</h1>
 
-<p><strong>Frontend Developer · React.js & Next.js · Open to Remote</strong></p>
+<p><strong>Web Engineer · React.js & Next.js · Open to Remote</strong></p>
 
 <p><em>I build things for the web — clean interfaces, scalable systems, and the occasional automation that makes someone's workday a lot easier.</em></p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=React.js+%26+Next.js+Developer;TypeScript+%7C+Tailwind+CSS;Shopify+%7C+SEO+%7C+Zoho+Automation;Open+to+Remote+Opportunities)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E6DA4&center=true&vCenter=true&width=620&lines=React.js+%26+Next.js+Engineer;TypeScript+%7C+Tailwind+CSS;Shopify+%7C+SEO+%7C+CRM+Automation;Open+to+Remote+Opportunities)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/arslanhakim)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arslanhaakim@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1A3C5E?style=flat-square&logo=vercel&logoColor=white)](https://arslanhakim.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arslanhakim.dev-1A3C5E?style=flat-square&logo=vercel&logoColor=white)](https://arslanhakim.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=arslanhakim&style=flat-square&color=2E6DA4&label=Profile+Views)
 
 </div>
@@ -22,17 +22,19 @@
 
 ## About Me
 
-I'm a Frontend Developer based in **Lahore, Pakistan** with 4+ years of experience turning ideas into production-ready web applications. I specialise in React.js and Next.js, but my work often goes beyond the UI — from wiring up Shopify storefronts and writing SEO metadata, to building full Zoho One automation pipelines for real businesses.
+I'm a Web Engineer based in **Lahore, Pakistan** with 4+ years of experience building production-grade web applications — from pixel-precise UIs to backend integrations and business automation systems.
 
-I care about writing code that's readable, maintainable, and actually solves the problem — not just code that works.
+I specialise in React.js and Next.js, but my work regularly goes beyond the interface. I've shipped Shopify storefronts end-to-end, architected CRM automation workflows on platforms like Zoho One, Make.com, and Noloco, and built and launched a live web platform from scratch that's indexed and ranking on Google.
 
-- 🔭 Currently working at **Mindshare Solutions** on client web projects
-- 🌱 Recently explored **Zoho One automation**, GoCardless webhooks & Deluge scripting
-- 🛍️ Built and launched **Shopify storefronts** end-to-end including SEO, extensions & content protection
+In the current era, one engineer with the right tools can do the work of a small team. That's the standard I hold myself to.
+
+- 🔭 Currently working at **Mindshare Solutions** on client web and automation projects
+- ⚙️ Build automation pipelines on **Zoho One, Make.com & Noloco** — webhooks, Deluge, payment integrations
+- 🛍️ Built Shopify storefronts end-to-end — themes, product systems, extensions, SEO & content protection
 - 🕌 Sole developer of **[AllamalQuraan.com](https://www.allamalquraan.com)** — live, indexed & ranking on Google
-- 💬 Ask me about React, Next.js, TypeScript, Tailwind, or Shopify
+- 💬 Ask me about React, Next.js, TypeScript, Tailwind, Shopify, or CRM automation
 - 📫 Reach me at **arslanhaakim@gmail.com**
-- ⚡ Fun fact: I've shipped projects used across **42 countries**
+- ⚡ Shipped projects used across **42 countries**
 
 ---
 
@@ -60,13 +62,23 @@ I care about writing code that's readable, maintainable, and actually solves the
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**
+**E-Commerce & CMS**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white)
+
+**Automation & CRM**
+
+![Zoho](https://img.shields.io/badge/Zoho_One-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Noloco](https://img.shields.io/badge/Noloco-1A3C5E?style=for-the-badge&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -74,7 +86,7 @@ I care about writing code that's readable, maintainable, and actually solves the
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity Summary" />
 
 </div>
 
