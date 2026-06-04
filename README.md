@@ -80,7 +80,7 @@ In the AI era, I operate with a much wider surface area than a typical frontend 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" alt="GitHub Streak Stats" />
 
 </div>
 
