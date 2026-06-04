@@ -80,8 +80,7 @@ In the AI era, I operate with a much wider surface area than a typical frontend 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arslanhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Arslan's GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanhakim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&langs_count=6" alt="Arslan's Top Languages" />
+<img src="https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
 </div>
 
