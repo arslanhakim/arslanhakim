@@ -74,15 +74,13 @@ I care about writing code that's readable, maintainable, and actually solves the
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arslanhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanhakim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity" />
 
 </div>
 
