@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=120&section=header&text=Hey,%20I'm%20Arslan%20👋&fontSize=32&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=130&section=header&text=Hey%2C%20I%27m%20Arslan%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 ### Frontend Developer · React.js & Next.js · Open to Remote
 
