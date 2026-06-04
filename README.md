@@ -78,9 +78,7 @@ In the AI era, I operate with a much wider surface area than a typical frontend 
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" alt="GitHub Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity" />
 
 </div>
 
