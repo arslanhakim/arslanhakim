@@ -1,11 +1,13 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=130&section=header&text=Hey%2C+I%27m+Arslan&fontSize=40&fontColor=ffffff&fontAlignY=62&desc=Frontend+Developer+%7C+React.js+%26+Next.js&descSize=18&descAlignY=80&descFontColor=d0e4f5" width="100%"/>
+<h1>Hey, I'm Arslan 👋</h1>
 
-### Frontend Developer · React.js & Next.js · Open to Remote
+<p><strong>Frontend Developer · React.js & Next.js · Open to Remote</strong></p>
 
-*I build things for the web — clean interfaces, scalable systems, and the occasional automation that makes someone's workday a lot easier.*
+<p><em>I build things for the web — clean interfaces, scalable systems, and the occasional automation that makes someone's workday a lot easier.</em></p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E6DA4&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Developer;TypeScript+%7C+Tailwind+CSS;Shopify+%7C+SEO+%7C+Zoho+Automation;Open+to+Remote+Opportunities)
 
 </div>
 
@@ -90,5 +92,5 @@ I care about writing code that's readable, maintainable, and actually solves the
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6DA4,100:1A3C5E&height=80&section=footer" width="100%"/>
+---
+<div align="center"><sub>Thanks for stopping by — let's build something great together.</sub></div>
