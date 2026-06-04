@@ -74,12 +74,6 @@ I care about writing code that's readable, maintainable, and actually solves the
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity" />
 
 </div>
