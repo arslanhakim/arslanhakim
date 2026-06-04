@@ -7,11 +7,11 @@
 
 <p><em>I build things for the web — clean interfaces, scalable systems, and the occasional automation that makes someone's workday a lot easier.</em></p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E6DA4&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Developer;TypeScript+%7C+Tailwind+CSS;Shopify+%7C+SEO+%7C+Zoho+Automation;Open+to+Remote+Opportunities)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=React.js+%26+Next.js+Developer;TypeScript+%7C+Tailwind+CSS;Shopify+%7C+SEO+%7C+Zoho+Automation;Open+to+Remote+Opportunities)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/arslanhaakim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/arslanhakim)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arslanhaakim@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1A3C5E?style=flat-square&logo=vercel&logoColor=white)](https://arslanhakim.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=arslanhakim&style=flat-square&color=2E6DA4&label=Profile+Views)
@@ -74,14 +74,15 @@ I care about writing code that's readable, maintainable, and actually solves the
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arslanhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanhakim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=arslanhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanhakim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=arslanhakim&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -91,7 +92,7 @@ I care about writing code that's readable, maintainable, and actually solves the
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanhaakim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanhakim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanhaakim@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A3C5E?style=for-the-badge&logo=vercel&logoColor=white)](https://arslanhakim.dev)
 
