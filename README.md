@@ -84,10 +84,13 @@ In the current era, one engineer with the right tools can do the work of a small
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity Summary" />
 
+</div> -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanhakim&theme=tokyonight" width="100%" alt="GitHub Activity" />
 </div>
 
 ---
