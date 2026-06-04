@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=130&section=header&text=Hey%2C%20I%27m%20Arslan%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=130&section=header&text=Hey%2C+I%27m+Arslan&fontSize=40&fontColor=ffffff&fontAlignY=62&desc=Frontend+Developer+%7C+React.js+%26+Next.js&descSize=18&descAlignY=80&descFontColor=d0e4f5" width="100%"/>
 
 ### Frontend Developer · React.js & Next.js · Open to Remote
 
