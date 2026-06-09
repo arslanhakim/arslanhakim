@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/arslanhakim)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arslanhaakim@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arslanhakim.dev-1A3C5E?style=flat-square&logo=vercel&logoColor=white)](https://arslanhakim.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arslanhakim.vercel.app-1A3C5E?style=flat-square&logo=vercel&logoColor=white)](https://arslanhakim.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=arslanhakim&style=flat-square&color=2E6DA4&label=Profile+Views)
 
 </div>
